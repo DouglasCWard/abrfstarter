@@ -1,0 +1,13 @@
+- name: About
+  link: /about/
+- name: Folder 1
+  link: /folder-1/
+- name: Folder 2
+  link: /folder-2/
+  dropdown: 
+    - name: Folder 2 Subpage
+      link: /folder-2/folder-2-subpage/
+- name: Folder 3
+  link: /folder-3/
+- name: Blog
+  link: /blog/

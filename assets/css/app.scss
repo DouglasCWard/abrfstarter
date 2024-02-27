@@ -1,0 +1,57 @@
+---
+---
+
+$primary: #76ced8;
+
+// Hero Banner
+$hero-body-padding-medium: 3rem 4.5rem !default;
+
+// Navigation Bar
+$navbar-background-color: #fff;
+// $navbar-box-shadow-size: 0 2px 0 0 !default
+// $navbar-box-shadow-color: $background !default
+$navbar-height: 6.25rem;
+// $navbar-padding-vertical: 1rem !default
+// $navbar-padding-horizontal: 2rem !default
+// $navbar-z: 30 !default
+// $navbar-fixed-z: 30 !default
+
+$navbar-item-color: #0f303f;
+// $navbar-item-hover-color: $link !default
+// $navbar-item-hover-background-color: $scheme-main-bis !default
+$navbar-item-active-color: #0f303f;
+// $navbar-item-active-background-color: transparent !default
+$navbar-item-img-max-height: 3.75rem;
+
+// $navbar-burger-color: $navbar-item-color !default
+
+// $navbar-tab-hover-background-color: transparent !default
+// $navbar-tab-hover-border-bottom-color: $link !default
+// $navbar-tab-active-color: $link !default
+// $navbar-tab-active-background-color: transparent !default
+// $navbar-tab-active-border-bottom-color: $link !default
+// $navbar-tab-active-border-bottom-style: solid !default
+// $navbar-tab-active-border-bottom-width: 3px !default
+
+// $navbar-dropdown-background-color: $scheme-main !default
+// $navbar-dropdown-border-top: 2px solid $border !default
+// $navbar-dropdown-offset: -4px !default
+$navbar-dropdown-arrow: #0f303f;
+// $navbar-dropdown-radius: $radius-large !default
+// $navbar-dropdown-z: 20 !default
+
+// Menu
+// $menu-item-color: $text !default
+// $menu-item-radius: $radius-small !default
+// $menu-item-hover-color: $text-strong !default
+// $menu-item-hover-background-color: $background !default
+// $menu-item-active-color: $link-invert !default
+$menu-item-active-background-color: #0f303f;
+
+.separater {
+    margin: 2em;
+    border-top: 1px solid #ddd;
+}
+
+// Import Main CSS file from theme
+@import "main";

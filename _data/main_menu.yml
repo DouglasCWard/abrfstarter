@@ -1,0 +1,17 @@
+- label: Main Menu
+  items:
+    - name: Home
+      link: /
+    - name: About
+      link: /about/
+    - name: Folder 1
+      link: /folder-1/
+    - name: Folder 2
+      link: /folder-2/
+      items:
+        - name: Folder 2 Sub-Page
+          link: /folder-2/folder-2-subpage/
+    - name: Folder 3
+      link: /folder-3/
+    - name: Blog
+      link: /blog/
